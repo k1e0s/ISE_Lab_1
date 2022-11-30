@@ -11,7 +11,7 @@ namespace Jla6a_TTporpammupoBaHue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Эксперимент номер 111");
+            Console.WriteLine("Эксперимент номер 1");
 
             Console.WriteLine("Введите первое число: ");
             int a = Convert.ToInt32(Console.ReadLine());
@@ -34,7 +34,7 @@ namespace Jla6a_TTporpammupoBaHue
 
 
             Console.WriteLine('\n');
-            Console.WriteLine("Эксперимент номер 222");
+            Console.WriteLine("Эксперимент номер 2");
 
 
             List<int> numbers = new List<int>();
@@ -55,7 +55,7 @@ namespace Jla6a_TTporpammupoBaHue
 
 
             Console.WriteLine('\n');
-            Console.WriteLine("Эксперимент номер 333");
+            Console.WriteLine("Эксперимент номер 3");
 
             Rectangle r1 = new Rectangle(0, 10, 5, 0);
 
