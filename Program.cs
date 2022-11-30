@@ -38,7 +38,7 @@ namespace Jla6a_TTporpammupoBaHue
 
 
             List<int> numbers = new List<int>();
-            for (int i = 2; i < 6; i++)
+            for (int i = 1; i < 6; i++)
             {
                 numbers.Add(i);
             }
